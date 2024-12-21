@@ -9,5 +9,9 @@ matplotlib<br>
 
 
 ### contents:
--Mandelbrot.ipynb<br>
-google colab notebook with code that was used, this is what should be read since it is more structured
+-442.py<br>
+442 cities
+-a280.py<br>
+problem for 280 cities
+-eli50.py<br>
+50 cities
