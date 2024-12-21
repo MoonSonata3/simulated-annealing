@@ -1,5 +1,5 @@
 # simulated-annealing
-this following repository has scripts to explore the travelling salesman problem<br>
+this following repository has scripts to explore the travelling salesman problem. The python scripts in the contents beneath are for the three given datasets. The text files include the data and are needed to run the code. <br>
 
 ### License:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
